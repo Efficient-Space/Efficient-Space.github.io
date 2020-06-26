@@ -191,9 +191,6 @@ nav ul li:hover{
 	transform: translateY(-0.4rem);
 }
 
-
-/*responsive*/
-
 @media screen and (max-width: 1200px) {
 	.tone-2 img{
 		left: -8rem;
@@ -381,7 +378,6 @@ nav ul li:hover{
 	display: block;
 	width: 100%;
 }
-
 
 /*over ons home tekst en knop*/
 .about-tekst h1{
