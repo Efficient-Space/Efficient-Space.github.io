@@ -457,3 +457,196 @@ nav ul li:hover{
 	display: block;
 	width: 100%;
 }
+
+
+
+
+
+
+
+
+
+
+/*about us*/
+
+.oo-alles{
+	background-color: rgb(202, 202, 202);
+	position: relative;
+	display: block;
+	float: left;
+}
+
+.oo-text{
+	font-size: 2.5rem;
+}
+
+
+.t1 h1{
+	margin-top: 3rem;
+	float: initial;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.t1 p{
+	float: left;
+	width: 50%;
+	margin-left: 5rem;
+	margin-bottom: 18rem;
+}
+
+.oo-text .about1{
+	float: right;
+	width: 50%;
+	max-width: 350px;
+	max-height: fit-content;
+	margin-right: 5rem;
+}
+
+
+.t2{
+	float: right;
+	width: 50%;
+	margin-right: 5rem;
+	margin-top: 5rem;
+	margin-bottom: 15rem;
+}
+
+.about2{
+	float: left;
+	width: 50%;
+	max-width: 350px;
+	max-height: fit-content;
+	top: 0rem;
+	margin-left: 5rem;
+	margin-top: 5rem;
+	margin-bottom: 15rem;
+}
+
+
+.t3{
+	float: left;
+	width: 50%;
+	margin-left: 5rem;
+	margin-top: 5rem;
+	margin-bottom: 16rem;
+}
+
+.about3{
+	float: right;
+	width: 50%;
+	max-width: 350px;
+	max-height: fit-content;
+	top: 0rem;
+	margin-right: 5rem;
+	margin-top: 5rem;
+	margin-bottom: 16rem;
+}
+
+.line{
+	text-decoration: underline;
+}
+
+
+/*Contact page*/
+
+.over-onsy{
+	margin-top: 4rem;
+	font-size: 2rem;
+	text-align: center;
+}
+
+input[type=text], select, textarea {
+	width: 100%; 
+	padding: 12px; 
+	border: 1px solid gray; 
+	border-radius: 4px; 
+	box-sizing: border-box;
+	margin-top: 6px; 
+	margin-bottom: 16px; 
+	resize: vertical 
+}
+
+
+input[type=submit] {	
+	background-color: #2d9431;	
+	color: white;	
+	padding: 12px 20px;	
+	border: none;	
+	border-radius: 4px;	
+	cursor: pointer;
+}
+
+
+input[type=submit]:hover {	
+	background-color: #0f5313;
+}
+
+
+.container {	border-radius: 5px;	background-color: #bebebe;
+	padding: 20px;
+}
+
+.bottom1{
+	position: relative;
+	bottom: 0rem;
+	background-color: black;
+	color: burlywood;
+	padding: 3rem;
+	bottom: 1rem;
+	top: 0rem;
+	font-size: 1.3rem;
+	height: 14rem;
+}
+
+.bgo{
+	background-color: #bebebe;
+}
+
+
+
+/*shop page*/
+  
+.bgimg{
+	background-image:linear-gradient(rgba(0, 0, 0, 0.6),rgba(0,0,0,0.5)), url('img/bkg.jpg');
+	height: 100%;
+	background-position: center;
+	background-size: cover;
+	position: relative;	
+	color: white;	
+	font-family: "Courier New", Courier, monospace;	
+	font-size: 25px;
+}
+
+.topleft{	
+	position: absolute;	top: 0;	left: 16px;
+}
+
+.bottomleft{	
+	position: absolute;	
+	bottom: 10rem;	
+	left: 16px;
+}
+
+.middle{	
+	position: absolute;	top: 50%;	left: 50%;	
+	transform: translate(-50%, -50%);	
+	text-align: center;
+}
+
+hr{	
+	margin: auto;	width: 40%;
+}
+
+.bottom2{
+	position: relative;
+	bottom: 0rem;
+	background-color: black;
+	color: burlywood;
+	padding: 3rem;
+	bottom: 1rem;
+	top: 0rem;
+	font-size: 1.3rem;
+	height: 14rem;
+}
+  
